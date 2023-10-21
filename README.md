@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ess-Adamson
-- 👀 I’m interested in project/product management
-- 🌱 I’m currently learning product management
+- 👋 Hi, I’m Esther Adamson
+- 👀 I'm a product manager
+- 🌱 I love working as a product manager
 - 💞️ I’m looking to collaborate on product management jobs
 - 📫 How to reach me "send me a message"
 
